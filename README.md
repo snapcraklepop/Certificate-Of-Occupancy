@@ -7,4 +7,5 @@ All data is from NYC Open data as of April, 2024.
 Distribution of CO wait times between submission and issue:
 
 Visual representation of CO wait times. Running the code itself will generate an interactive map that provides more granularity.
+![alt text](https://github.com/snapcraklepop/Certificate-Of-Occupancy/blob/master/NYC_CO_Map.jpg?raw=true)
 
